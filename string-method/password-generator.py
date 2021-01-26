@@ -1,5 +1,5 @@
 '''
-Project: Random Password Generator
+Project: Random Password Generator Test
 
 Password: 
 '''
