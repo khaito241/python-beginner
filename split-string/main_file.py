@@ -7,7 +7,7 @@ def printMsg(email_username, email_domain):
     print(f"Email Username is {email_username}, Email Domain is {email_domain}")
 
 def main():
-    email = input("Please input your email address: ").strip()
+    email = input("Please input your email address here: ").strip()
     email_username, email_domain = emailProcess(email)
     printMsg(email_username, email_domain)
 
