@@ -14,6 +14,7 @@ def unique(str):
         char_set[char] = True
     return True
 
+#Test Case
 class Test(unittest.TestCase):
     dataT = [('abcd'),('s7281ui'),('')]
     dataF = [('dd231a'),('882ace')]
